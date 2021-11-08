@@ -1,0 +1,12 @@
+C:\Users\sonu.kumar\source\repos\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\sonu.kumar\source\repos\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\sonu.kumar\source\repos\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\sonu.kumar\source\repos\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\sonu.kumar\source\repos\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sonu.kumar\source\repos\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\sonu.kumar\source\repos\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sonu.kumar\source\repos\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+C:\Users\sonu.kumar\source\repos\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sonu.kumar\source\repos\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+C:\Users\sonu.kumar\source\repos\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\sonu.kumar\source\repos\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
